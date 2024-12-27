@@ -10,13 +10,13 @@ Welcome to my GitHub profile! Here's a little about me:
 
 ### Frontend Development 🌐
 - **Languages & Frameworks:**  
-  - TypeScript, React, React Native, Ionic  
+  - TypeScript, React, React Native, Ionic, Angular, Vue
 - **Styling:**  
   - HTML, CSS, Tailwind  
 
 ### Backend Development 🔗
 - **Languages & Tools:**  
-  - PHP, REST API Development, OAuth  
+  - NodeJS, PHP, REST API Development, OAuth  
 - **Databases:**  
   - PostgreSQL, SQL, MongoDB, Supabase  
 
