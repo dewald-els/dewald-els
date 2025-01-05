@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Dewald Els!
 
-🚀 **Full Stack Developer | Educator | Creative Designer**
+🚀 **Full stack developer | Educator | Pixel art enjoyer**
 
 Welcome to my GitHub profile! Here's a little about me:
 
