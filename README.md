@@ -69,6 +69,6 @@ I'm always exploring new technologies, sharing knowledge, and trying new technol
 
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/dewald-els/)
 - Portfolio: [portfolio.dewaldels.com](https://portfolio.dewaldels.com)
-- Email: [dewaldifels@gmail.com](mailto:dewaldifels@gmail.com)
+- Email: [hello@dewaldels.com](mailto:hello@dewaldels.com)
 
 ✨ _"It's okay to suck. We all suck at some point. We learn, we get better and we suck less. Don't be afraid to suck, but be determinded enough to learn and grow."_  
