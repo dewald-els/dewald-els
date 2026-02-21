@@ -1,5 +1,7 @@
 # `dewald` · ( pronounced: Dear-Volt )
 
+[dewaldels.com](https://dewaldels.com)
+
 ```ts
 //file: pronunciation.ts
 
