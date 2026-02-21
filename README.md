@@ -13,14 +13,14 @@ console.log(`Say it like: "${pronunciation}"`);
 
 ---
 
-## // about me
+### // about me
 
 Hello. I enjoy writing **TypeScript** for a living. I write games in **Godot** fun. - My ideas folder is getting bigger every day. I'll finish it someday.
 
 I enjoy making tiny pixel characters in **Aseprite**. Sometimes they look like actual characters.
 
 
-## // fun fact
+### // fun fact
 > ⚠️ functions > OOP
 > 
 > ⚠️ tabs > spaces
@@ -40,7 +40,7 @@ I enjoy making tiny pixel characters in **Aseprite**. Sometimes they look like a
 
 ---
 
-## // summary
+### // summary
 
 | main lang | sprite size | unfinished games |
 |:---------:|:-----------:|:----------------:|
