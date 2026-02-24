@@ -21,9 +21,9 @@ I enjoy making tiny pixel characters in **Aseprite**. Sometimes they look like a
 
 
 ### // fun fact
-> ⚠️ functions > OOP
+> ⚠️ `functions > OOP`
 > 
-> ⚠️ tabs > spaces
+> ⚠️ `tabs > spaces`
 
 ---
 
